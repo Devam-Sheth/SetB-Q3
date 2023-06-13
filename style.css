@@ -1,0 +1,21 @@
+body {
+    height: 250px;
+    width: 250px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    height: 200px;
+    width: 200px;
+    color: #fbff00;
+    border: 2px solid #ff005e;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
